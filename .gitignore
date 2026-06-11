@@ -177,3 +177,6 @@ coverage/
 # Dependencies
 .cache/
 *.d
+
+# MAINTENANCE
+SATELLITE_MAINTENANCE.md
